@@ -16,7 +16,7 @@ This is a set of sass/less/stylus/css variables and css classes that can help fi
 (Uncompressed is just 888B)
 
 colors.css provides utilities to apply backgrounds, text-color, border colors for both html and svg elements.
-
+Click for more info. More online documents <a href="https://yuenergy.co.uk/products/business-electricity/">here</a>  
 # Example
 
 ```scss
